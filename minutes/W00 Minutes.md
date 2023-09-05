@@ -14,6 +14,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 007 | 2023-08-31 | Elizabeth | Identify one or more methods for the mobile device and Raspberry Pi to communicate | 2023-09-14 |  |  |
 | 008 | 2023-08-31 | Elizabeth | Demonstrate communication between the mobile device and Raspberry Pi microcontroller | 2023-09-28 |  |  |
 | 009 | 2023-08-31 | Elizabeth | Document Meeting 00 on the GitHub Repository. | 2023-09-01 | 2023-08-31 | https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W00%20Minutes.md (GitHub Minutes 00 Meeting link) |
+| 010 | 2023-08-31 | Christopher | Update parts list to remove parts acquired from action 005 | 2023-09-07 |  |  |
 
 Group Decisions Made:
  - Contacting Billy Kelly to assess/acquire parts from WSU's current inventory before ordering.
