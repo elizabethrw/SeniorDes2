@@ -16,7 +16,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 030 | 2023-09-12 | Christopher | Emulate Raspberry Pi OS via QEMU | 2023-09-21 |  |  |
 | 031 | 2023-09-12 | Elizabeth | Identify at least one resource for python script to run upon Bluetooth connection being established. | 2023-09-14 | 2023-09-12 | https://forums.raspberrypi.com/viewtopic.php?t=85101 |
 | 032 | 2023-09-12 |  | Identify resource that shows how the location of the Bluetooth paired mobile device can be identified |  |  |  |
-| 033 | 2023-09-12 | Elizabeth | Document the Meeting Minutes 02 on GitHub. | 2023-09-14 | 2023-09-12 |  |
+| 033 | 2023-09-12 | Elizabeth | Document the Meeting Minutes 02 on GitHub. | 2023-09-14 | 2023-09-12 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W02%20minutes.md |
 
 Group Decisions:
 -	Per attempting a headless connection to the Raspberry Pi, decided it would be best to bring/purchase materials to establish a regular connection.
