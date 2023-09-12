@@ -14,7 +14,10 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 017 | 2023-09-05 | Christopher | Meet with Billy Kelly at 1:30 pm on 9/5/2023 to look at WSU’s supplies and possibly acquire parts. | 2023-09-05 | 2023-09-05 | Met with Billy Kelley, no parts acquired as parts have already been ordered over the summer by Billy Kelley. |
 | 018 | 2023-09-05 | Elizabeth | Identify one or more resources that show steps to establish a headless connection between a Raspberry Pi and Windows 10 computer. | 2023-09-07 | 2023-09-06 | Link to steps to establish a headless connection: https://www.instructables.com/New-Raspberry-PI-Setup-2022-Headless-Mode/ |
 | 019 | 2023-09-07 | Yahia | Identify a method to utilize the Bluetooth connection between the device and Raspberry Pi. | 2023-09-14 |  |  |
+| 020 | 2023-09-07 | Elizabeth | Bring supplies for a regular (not headless) connection to the Raspberry Pi. | 2023-09-14 | 2023-09-12 | Brought the supplies for a regular connection on 2023-09-12 to class. |
+| 021 | 2023-09-07 | Elizabeth | Establish a regular connection to the Raspberry Pi at home. | 2023-09-14 | 2023-09-10 | Image: ![image](https://github.com/elizabethrw/SeniorDes2/assets/77339445/248a741d-461f-49b8-86ab-2570887cb103)
+ |
 
-Group Decisions/Updates:
- - Learned that our group's parts have already been ordered, and we are waiting to get a receipt and for parts to come in.
- - Decided to bring a group member's Raspberry Pi to class so we could start working on establishing a Bluetooth connection between the microcontroller and a mobile device.
+Group Decisions:
+-	Per attempting a headless connection to the Raspberry Pi, decided it would be best to bring/purchase materials to establish a regular connection.
+
