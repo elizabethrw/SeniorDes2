@@ -15,8 +15,10 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 029 | 2023-09-12 | Christopher | Install QEMU on computer. | 2023-09-12 | 2023-09-12 | Installed |
 | 030 | 2023-09-12 | Christopher | Emulate Raspberry Pi OS via QEMU | 2023-09-21 |  |  |
 | 031 | 2023-09-12 | Elizabeth | Identify at least one resource for python script to run upon Bluetooth connection being established. | 2023-09-14 | 2023-09-12 | https://forums.raspberrypi.com/viewtopic.php?t=85101 |
-| 032 | 2023-09-12 |  | Identify resource that shows how the location of the Bluetooth paired mobile device can be identified |  |  |  |
-| 033 | 2023-09-12 | Elizabeth | Document the Meeting Minutes 02 on GitHub. | 2023-09-14 | 2023-09-12 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W02%20minutes.md |
+| 032 | 2023-09-12 | Elizabeth | Document the Meeting Minutes 02 on GitHub. | 2023-09-14 | 2023-09-12 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W02%20minutes.md |
+| 033 | 2023-09-14 | Christopher | Establish a time with Billy Kelley to get robot parts that have arrived.  | 2023-09-14 | 2023-09-14 | Sent him an email, later established a meeting time of 3:00 P.M. |
+| 034 | 2023-09-14 | Christopher | Meet with Billy Kelley to get parts that arrived (after setting a meeting time). | 2023-09-14 | 2023-09-14 | Acquired parts that have arrived. Since access to the basement of Russ has not been granted yet, parts are currently sitting in dorm room. |
+| 035 | 2023-09-14 | Christopher | List parts that have arrived in the “WnnMinutes.docx” document or on the discord. | 2023-09-19 | 2023-09-16 | In image below: ![image](https://github.com/elizabethrw/SeniorDes2/assets/77339445/f8eff4a9-cf78-40f8-8163-5a7e22650b56) |
 
 Group Decisions:
 -	Per attempting a headless connection to the Raspberry Pi, decided it would be best to bring/purchase materials to establish a regular connection.
