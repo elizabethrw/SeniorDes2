@@ -21,7 +21,9 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 035 | 2023-09-14 | Christopher | List parts that have arrived in the “WnnMinutes.docx” document or on the discord. | 2023-09-19 | 2023-09-16 | In image below: ![image](https://github.com/elizabethrw/SeniorDes2/assets/77339445/f8eff4a9-cf78-40f8-8163-5a7e22650b56) |
 
 Group Decisions:
--	Per attempting a headless connection to the Raspberry Pi, decided it would be best to bring/purchase materials to establish a regular connection.
+-	Decided to use GPS locations for how the robot will navigate to the user’s cell phone instead of Bluetooth signaling.
+ - Decided to use Bluetooth to communicate the device’s GPS location to the robot.
+
 
 Important if you are establishing a connection to the Raspberry Pi:
 -	Plug in the HDMI connections for the keyboard and mouse, then the connection to the monitor first. Make sure the monitor is connected to the HDMI port (the bottom right button on the monitor changes the port and can easily be hit on accident).
