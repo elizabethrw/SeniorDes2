@@ -12,7 +12,8 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 005 | 2023-08-31 | Christopher | Acquire parts as available from WSU Labs | 2023-09-07 | 2023/09-05 | Parts have already been ordered, so no parts needed from WSU Labs. |
 | 006 | 2023-08-31 | Yahia | Create basic Application landing page | 2023-09-07 | 2023-09-06 | Pull Request https://github.com/elizabethrw/SeniorDes2/pull/1 |
 | 007 | 2023-08-31 | Elizabeth | Identify one or more methods for the mobile device and Raspberry Pi to communicate | 2023-09-14 | 2023-09-06  | https://bluedot.readthedocs.io/en/latest/pairpiandroid.html |
-| 008 | 2023-08-31 | Elizabeth | Demonstrate communication between the mobile device and Raspberry Pi microcontroller | 2023-09-28 |  |  |
+| 008 | 2023-08-31 | Elizabeth | Demonstrate communication between the mobile device and Raspberry Pi microcontroller | 2023-09-28 | 2023-09-20 | Image (shows mobile device’s info is stored on the Raspberry Pi post Bluetooth communication): ![image](https://github.com/elizabethrw/SeniorDes2/assets/77339445/bd034ea2-4f97-435d-9600-008b60a4eba5)
+  |
 | 009 | 2023-08-31 | Elizabeth | Document Meeting 00 on the GitHub Repository. | 2023-09-01 | 2023-08-31 | https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W00%20Minutes.md (GitHub Minutes 00 Meeting link) |
 | 010 | 2023-08-31 | Christopher | Update parts list to remove parts acquired from action 005 | 2023-09-07 | OBE | Parts were already ordered during the summer by Billy Kelley, so no point in updating parts list. |
 
