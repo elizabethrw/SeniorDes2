@@ -1,0 +1,1 @@
+C:\Users\ocanc\Desktop\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\MobileTrashBin.csproj;x64

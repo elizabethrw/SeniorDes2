@@ -10,13 +10,13 @@
             VerticalOptions="Center">
 
             <Label
-                Text="Mobile Trash Bin Project"
+                Text="Mobile Trash Bin"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
             <Label
-                Text="V0.01"
+                Text="V0.02"
                 SemanticProperties.HeadingLevel="Level2"
                 FontSize="18"
                 HorizontalOptions="Center" />
