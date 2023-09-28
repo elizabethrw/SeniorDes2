@@ -41,13 +41,6 @@
                 TextColor="Coral"
                 HorizontalOptions="Center" />
 
-            <Label
-                x:Name="freeSp2"
-                Text=""
-                SemanticProperties.HeadingLevel="Level2"
-                FontSize="18"
-                TextColor="Green"
-                HorizontalOptions="Start" />
 
 
         </VerticalStackLayout>
