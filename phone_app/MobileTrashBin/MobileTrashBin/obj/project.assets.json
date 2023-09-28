@@ -15,6 +15,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -184,7 +213,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -1959,6 +1988,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -2128,7 +2186,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -3903,6 +3961,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -4072,7 +4159,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -5847,6 +5934,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -6016,7 +6132,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -7791,6 +7907,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -7960,7 +8105,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -9735,6 +9880,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -9904,7 +10078,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -11679,6 +11853,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -11848,7 +12051,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -13623,6 +13826,35 @@
           }
         }
       },
+      "InTheHand.AndroidActivity/1.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "InTheHand.AndroidActivity": "1.0.3"
+        },
+        "compile": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -13792,7 +14024,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -15554,6 +15786,22 @@
       }
     },
     "net7.0-ios16.1": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15723,7 +15971,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -15752,11 +16000,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/android-arm": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -15926,7 +16198,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -15955,11 +16227,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/android-arm64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16129,7 +16425,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -16158,11 +16454,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/android-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16332,7 +16652,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -16361,11 +16681,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/android-x86": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16535,7 +16879,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -16564,11 +16908,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/iossimulator-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16738,7 +17106,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -16767,11 +17135,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/maccatalyst-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -16941,7 +17333,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -16970,11 +17362,35 @@
           },
           "lib/netstandard2.0/Plugin.BLE.dll": {
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          }
+        }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
           }
         }
       }
     },
     "net7.0-ios16.1/win10-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.InteropServices.NFloat.Internal": "6.0.1"
+        },
+        "compile": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17144,7 +17560,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -17175,9 +17591,30 @@
             "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
           }
         }
+      },
+      "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+        "type": "package",
+        "compile": {
+          "ref/net6.0/System.Runtime.InteropServices.dll": {
+            "related": ".xml"
+          }
+        }
       }
     },
     "net7.0-maccatalyst16.1": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17347,7 +17784,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -17381,6 +17818,19 @@
       }
     },
     "net7.0-maccatalyst16.1/android-arm": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17550,7 +18000,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -17584,6 +18034,19 @@
       }
     },
     "net7.0-maccatalyst16.1/android-arm64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17753,7 +18216,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -17787,6 +18250,19 @@
       }
     },
     "net7.0-maccatalyst16.1/android-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -17956,7 +18432,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -17990,6 +18466,19 @@
       }
     },
     "net7.0-maccatalyst16.1/android-x86": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18159,7 +18648,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -18193,6 +18682,19 @@
       }
     },
     "net7.0-maccatalyst16.1/iossimulator-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18362,7 +18864,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -18396,6 +18898,19 @@
       }
     },
     "net7.0-maccatalyst16.1/maccatalyst-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18565,7 +19080,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -18599,6 +19114,19 @@
       }
     },
     "net7.0-maccatalyst16.1/win10-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18768,7 +19296,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -18802,6 +19330,19 @@
       }
     },
     "net7.0-windows10.0.19041": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -18971,7 +19512,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -19000,7 +19541,7 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -19013,12 +19554,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -19032,11 +19572,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -19144,6 +19684,19 @@
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19313,7 +19866,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -19328,7 +19881,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -19341,12 +19894,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -19360,11 +19912,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -19458,6 +20010,19 @@
       }
     },
     "net7.0-windows10.0.19041/android-arm64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19627,7 +20192,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -19642,7 +20207,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -19655,12 +20220,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -19674,11 +20238,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -19772,6 +20336,19 @@
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -19941,7 +20518,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -19956,7 +20533,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -19969,12 +20546,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -19988,11 +20564,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -20086,6 +20662,19 @@
       }
     },
     "net7.0-windows10.0.19041/android-x86": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20255,7 +20844,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -20270,7 +20859,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -20283,12 +20872,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -20302,11 +20890,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -20400,6 +20988,19 @@
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20569,7 +21170,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -20584,7 +21185,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -20597,12 +21198,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -20616,11 +21216,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -20714,6 +21314,19 @@
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -20883,7 +21496,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -20898,7 +21511,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -20911,12 +21524,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -20930,11 +21542,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -21028,6 +21640,19 @@
       }
     },
     "net7.0-windows10.0.19041/win10-x64": {
+      "InTheHand.Net.Bluetooth/4.0.36": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Configuration/7.0.0": {
         "type": "package",
         "dependencies": {
@@ -21197,7 +21822,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Graphics.Win2D/1.0.5.1": {
+      "Microsoft.Graphics.Win2D/1.0.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.WindowsAppSDK": "1.0.4"
@@ -21215,7 +21840,7 @@
           "build/net5.0-windows10.0.17763.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.92": {
+      "Microsoft.Maui.Graphics/7.0.59": {
         "type": "package",
         "compile": {
           "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
@@ -21228,12 +21853,11 @@
           }
         }
       },
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Graphics.Win2D": "1.0.5.1",
-          "Microsoft.Maui.Graphics": "7.0.92",
-          "Microsoft.Windows.SDK.BuildTools": "10.0.22621.756",
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
           "Microsoft.WindowsAppSDK": "1.2.221209.1"
         },
         "compile": {
@@ -21247,11 +21871,11 @@
           }
         }
       },
-      "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
         "type": "package",
         "build": {
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.props": {},
-          "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets": {}
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
         }
       },
       "Microsoft.WindowsAppSDK/1.2.221209.1": {
@@ -21365,6 +21989,58 @@
         "lib/net6.0-android31.0/GoogleGson.aar",
         "lib/net6.0-android31.0/GoogleGson.dll",
         "lib/net6.0-android31.0/GoogleGson.xml"
+      ]
+    },
+    "InTheHand.AndroidActivity/1.0.3": {
+      "sha512": "XReHfZ/tqad7IhzFdfSvqEyXUmJkRVnrJ5lOwCjNiDSfWPeriZoW/VUzFfW2jk6JN/OAFtK2mrPfYq10m45Fsw==",
+      "type": "package",
+      "path": "inthehand.androidactivity/1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "inthehand.androidactivity.1.0.3.nupkg.sha512",
+        "inthehand.androidactivity.nuspec",
+        "lib/monoandroid10.0/InTheHand.AndroidActivity.dll",
+        "lib/monoandroid10.0/InTheHand.AndroidActivity.xml",
+        "lib/net6.0-android31.0/InTheHand.AndroidActivity.dll",
+        "lib/net6.0-android31.0/InTheHand.AndroidActivity.xml",
+        "lib/net7.0-android33.0/InTheHand.AndroidActivity.dll",
+        "lib/net7.0-android33.0/InTheHand.AndroidActivity.xml",
+        "packageicon.png"
+      ]
+    },
+    "InTheHand.Net.Bluetooth/4.0.36": {
+      "sha512": "hLoiia8RW6K7RmbuD0Y4YhKP2WGjUkai3XXgRWGIOjME6a0jonyDVNIjnHTrDAVTF79xzr113KGRohpT6ho7lw==",
+      "type": "package",
+      "path": "inthehand.net.bluetooth/4.0.36",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "32feet-package-icon.png",
+        "inthehand.net.bluetooth.4.0.36.nupkg.sha512",
+        "inthehand.net.bluetooth.nuspec",
+        "lib/monoandroid10.0/InTheHand.Net.Bluetooth.dll",
+        "lib/monoandroid10.0/InTheHand.Net.Bluetooth.xml",
+        "lib/net461/InTheHand.Net.Bluetooth.dll",
+        "lib/net461/InTheHand.Net.Bluetooth.xml",
+        "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.dll",
+        "lib/net6.0-android31.0/InTheHand.Net.Bluetooth.xml",
+        "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.dll",
+        "lib/net6.0-ios16.1/InTheHand.Net.Bluetooth.xml",
+        "lib/net6.0-windows10.0.22000/InTheHand.Net.Bluetooth.dll",
+        "lib/net6.0-windows10.0.22000/InTheHand.Net.Bluetooth.xml",
+        "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.dll",
+        "lib/net6.0-windows7.0/InTheHand.Net.Bluetooth.xml",
+        "lib/netstandard2.0/InTheHand.Net.Bluetooth.dll",
+        "lib/netstandard2.0/InTheHand.Net.Bluetooth.xml",
+        "lib/netstandard2.1/InTheHand.Net.Bluetooth.dll",
+        "lib/netstandard2.1/InTheHand.Net.Bluetooth.xml",
+        "lib/uap10.0.16299/InTheHand.Net.Bluetooth.dll",
+        "lib/uap10.0.16299/InTheHand.Net.Bluetooth.pri",
+        "lib/uap10.0.16299/InTheHand.Net.Bluetooth.xml",
+        "lib/xamarinios10/InTheHand.Net.Bluetooth.dll",
+        "lib/xamarinios10/InTheHand.Net.Bluetooth.xml"
       ]
     },
     "Microsoft.Extensions.Configuration/7.0.0": {
@@ -21661,10 +22337,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Graphics.Win2D/1.0.5.1": {
-      "sha512": "9DVEVvyQWWz8kqhsFBAx9Zv4KRIAcmxuT7kFpK1Fgh6czSiMB+CQW0DlhZXT44Mtv41FRXG47lhEv+7a2YyiLA==",
+    "Microsoft.Graphics.Win2D/1.0.4": {
+      "sha512": "PmUO0B+gLdbxy1XCmX6pS57SL08roPKZC3sXKSRH4Qa1nX5RKwIdmmIxSvmV9irN57ABSMtDtWa+qNYnyzB/nw==",
       "type": "package",
-      "path": "microsoft.graphics.win2d/1.0.5.1",
+      "path": "microsoft.graphics.win2d/1.0.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -21684,17 +22360,17 @@
         "lib/net5.0-windows10.0.17763.0/Microsoft.Graphics.Canvas.Interop.dll",
         "lib/netcoreapp3.0/Microsoft.Graphics.Canvas.winmd",
         "lib/uap10.0/Microsoft.Graphics.Canvas.winmd",
-        "microsoft.graphics.win2d.1.0.5.1.nupkg.sha512",
+        "microsoft.graphics.win2d.1.0.4.nupkg.sha512",
         "microsoft.graphics.win2d.nuspec",
         "runtimes/win10-arm64/native/Microsoft.Graphics.Canvas.dll",
         "runtimes/win10-x64/native/Microsoft.Graphics.Canvas.dll",
         "runtimes/win10-x86/native/Microsoft.Graphics.Canvas.dll"
       ]
     },
-    "Microsoft.Maui.Graphics/7.0.92": {
-      "sha512": "fe9pKhm5LZGsAbEZQg7VEHGer76h8m8VPkGRWJ4P0+3QMu3yXOYmOiA60Wskjk8Mrd6eXZCQUWTTeley1agYQg==",
+    "Microsoft.Maui.Graphics/7.0.59": {
+      "sha512": "a5eOfzqeHeERBmQ6g3uU+p4GEwHtBXxQ1s58XIiHCMf/WGCn5HX9z17VLUz6qr2ELVf/BbZ9bFUzVef+kbxkvQ==",
       "type": "package",
-      "path": "microsoft.maui.graphics/7.0.92",
+      "path": "microsoft.maui.graphics/7.0.59",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -21730,14 +22406,14 @@
         "lib/netstandard2.1/Microsoft.Maui.Graphics.dll",
         "lib/netstandard2.1/Microsoft.Maui.Graphics.pdb",
         "lib/netstandard2.1/Microsoft.Maui.Graphics.xml",
-        "microsoft.maui.graphics.7.0.92.nupkg.sha512",
+        "microsoft.maui.graphics.7.0.59.nupkg.sha512",
         "microsoft.maui.graphics.nuspec"
       ]
     },
-    "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.92": {
-      "sha512": "4snL9nMCGIzZ6utx8T8X42k3TjaA1PZY7Mpr1/LFyvxanja4f+zWroierjBCciBNoz8Zb0RJEMxxpr16SUcRGw==",
+    "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+      "sha512": "ExNm2DreudUpAESDCpmFqruINxrjgpNOl+80GjCp/yoFv6QX3exYBmrFZ2zWSb7RrvWJnBPN9SaOHbkpT2+x2A==",
       "type": "package",
-      "path": "microsoft.maui.graphics.win2d.winui.desktop/7.0.92",
+      "path": "microsoft.maui.graphics.win2d.winui.desktop/7.0.59",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -21747,14 +22423,14 @@
         "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
         "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll",
         "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
-        "microsoft.maui.graphics.win2d.winui.desktop.7.0.92.nupkg.sha512",
+        "microsoft.maui.graphics.win2d.winui.desktop.7.0.59.nupkg.sha512",
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
       ]
     },
-    "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
-      "sha512": "7ZL2sFSioYm1Ry067Kw1hg0SCcW5kuVezC2SwjGbcPE61Nn+gTbH86T73G3LcEOVj0S3IZzNuE/29gZvOLS7VA==",
+    "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "sha512": "zGXDCZc2/slVjpNtopNETCjnOqH9KiEdo9dPCcjtNWwK5W+EmOcEn7X5Ftj3tOE9kLvroga1s7WwLh2a5jQEEg==",
       "type": "package",
-      "path": "microsoft.windows.sdk.buildtools/10.0.22621.756",
+      "path": "microsoft.windows.sdk.buildtools/10.0.22621.755",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -21921,9 +22597,7 @@
         "bin/10.0.22621.0/x86/wintrust.dll.ini",
         "build/Microsoft.Windows.SDK.BuildTools.props",
         "build/Microsoft.Windows.SDK.BuildTools.targets",
-        "buildTransitive/Microsoft.Windows.SDK.BuildTools.props",
-        "buildTransitive/Microsoft.Windows.SDK.BuildTools.targets",
-        "microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
+        "microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
         "microsoft.windows.sdk.buildtools.nuspec",
         "schemas/10.0.22621.0/winrt/AppxManifestSchema.xsd",
         "schemas/10.0.22621.0/winrt/AppxManifestSchema2010_v2.xsd",
@@ -22617,6 +23291,23 @@
         "lib/xamarinmac20/Plugin.BLE.macOS.xml",
         "plugin.ble.2.1.3.nupkg.sha512",
         "plugin.ble.nuspec"
+      ]
+    },
+    "System.Runtime.InteropServices.NFloat.Internal/6.0.1": {
+      "sha512": "vq+81ZqZz9oHV6iWgGXFnxHAyO5xA73nfvDNu5LwymIK294is5bRo3P063VToAbDRyyc0qq/YFRYjHmiD6Cv8Q==",
+      "type": "package",
+      "path": "system.runtime.interopservices.nfloat.internal/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "ref/net6.0/System.Runtime.InteropServices.dll",
+        "ref/net6.0/System.Runtime.InteropServices.xml",
+        "system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
+        "system.runtime.interopservices.nfloat.internal.nuspec",
+        "useSharedDesignerContext.txt"
       ]
     },
     "Xamarin.Android.Glide/4.13.2.2": {
@@ -24619,12 +25310,13 @@
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
+      "InTheHand.Net.Bluetooth >= 4.0.36",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.92",
+      "Microsoft.Maui.Graphics >= 7.0.59",
       "Plugin.BLE >= 2.1.3",
       "Xamarin.Android.Glide >= 4.13.2.2",
       "Xamarin.AndroidX.Browser >= 1.4.0.3",
@@ -24639,54 +25331,58 @@
       "Xamarin.Google.Crypto.Tink.Android >= 1.7.0.1"
     ],
     "net7.0-ios16.1": [
+      "InTheHand.Net.Bluetooth >= 4.0.36",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.92",
+      "Microsoft.Maui.Graphics >= 7.0.59",
       "Plugin.BLE >= 2.1.3"
     ],
     "net7.0-maccatalyst16.1": [
+      "InTheHand.Net.Bluetooth >= 4.0.36",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.92",
+      "Microsoft.Maui.Graphics >= 7.0.59",
       "Plugin.BLE >= 2.1.3"
     ],
     "net7.0-windows10.0.19041": [
+      "InTheHand.Net.Bluetooth >= 4.0.36",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.92",
-      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.92",
+      "Microsoft.Maui.Graphics >= 7.0.59",
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.59",
+      "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
       "Microsoft.WindowsAppSDK >= 1.2.221209.1",
       "Plugin.BLE >= 2.1.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ocanc\\.nuget\\packages\\": {},
+    "C:\\Users\\YESYESYES\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ocanc\\Desktop\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\MobileTrashBin.csproj",
+      "projectUniqueName": "C:\\Users\\YESYESYES\\Desktop\\mobile bin robot\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\MobileTrashBin.csproj",
       "projectName": "MobileTrashBin",
-      "projectPath": "C:\\Users\\ocanc\\Desktop\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\MobileTrashBin.csproj",
-      "packagesPath": "C:\\Users\\ocanc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ocanc\\Desktop\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\obj\\",
+      "projectPath": "C:\\Users\\YESYESYES\\Desktop\\mobile bin robot\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\MobileTrashBin.csproj",
+      "packagesPath": "C:\\Users\\YESYESYES\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YESYESYES\\Desktop\\mobile bin robot\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ocanc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\YESYESYES\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -24729,6 +25425,10 @@
       "net7.0-android33.0": {
         "targetAlias": "net7.0-android",
         "dependencies": {
+          "InTheHand.Net.Bluetooth": {
+            "target": "Package",
+            "version": "[4.0.36, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24755,7 +25455,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.92, )",
+            "version": "[7.0.59, )",
             "autoReferenced": true
           },
           "Plugin.BLE": {
@@ -24846,11 +25546,15 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
         "dependencies": {
+          "InTheHand.Net.Bluetooth": {
+            "target": "Package",
+            "version": "[4.0.36, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24877,7 +25581,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.92, )",
+            "version": "[7.0.59, )",
             "autoReferenced": true
           },
           "Plugin.BLE": {
@@ -24913,11 +25617,15 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
         "dependencies": {
+          "InTheHand.Net.Bluetooth": {
+            "target": "Package",
+            "version": "[4.0.36, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -24944,7 +25652,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.92, )",
+            "version": "[7.0.59, )",
             "autoReferenced": true
           },
           "Plugin.BLE": {
@@ -24981,11 +25689,15 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       },
       "net7.0-windows10.0.19041": {
         "targetAlias": "net7.0-windows10.0.19041.0",
         "dependencies": {
+          "InTheHand.Net.Bluetooth": {
+            "target": "Package",
+            "version": "[4.0.36, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -25012,12 +25724,18 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.92, )",
+            "version": "[7.0.59, )",
             "autoReferenced": true
           },
           "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop": {
             "target": "Package",
-            "version": "[7.0.92, )",
+            "version": "[7.0.59, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Windows.SDK.BuildTools": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[10.0.22621.755, )",
             "autoReferenced": true
           },
           "Microsoft.WindowsAppSDK": {
@@ -25044,19 +25762,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[7.0.11, 7.0.11]"
+            "version": "[7.0.4, 7.0.4]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[7.0.11, 7.0.11]"
+            "version": "[7.0.4, 7.0.4]"
           },
           {
             "name": "Microsoft.Windows.SDK.NET.Ref",
-            "version": "[10.0.19041.29, 10.0.19041.29]"
+            "version": "[10.0.19041.28, 10.0.19041.28]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[7.0.11, 7.0.11]"
+            "version": "[7.0.4, 7.0.4]"
           }
         ],
         "frameworkReferences": {
@@ -25076,7 +25794,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

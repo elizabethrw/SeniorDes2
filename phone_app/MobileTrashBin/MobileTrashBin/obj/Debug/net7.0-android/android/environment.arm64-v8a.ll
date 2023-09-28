@@ -82,7 +82,7 @@ target triple = "aarch64-unknown-linux-android"
 @__app_environment_variables_n_2.4 = internal constant [15 x i8] c"MONO_LOG_LEVEL\00", align 1
 @__app_environment_variables_v_2.5 = internal constant [5 x i8] c"info\00", align 1
 @__app_environment_variables_n_3.6 = internal constant [17 x i8] c"XAMARIN_BUILD_ID\00", align 1
-@__app_environment_variables_v_3.7 = internal constant [37 x i8] c"38fd4fbc-59f5-4a20-8ef9-fc72ca4870fe\00", align 1
+@__app_environment_variables_v_3.7 = internal constant [37 x i8] c"9c944227-094d-4de2-818c-722cdb49f2e6\00", align 1
 @__app_environment_variables_n_4.8 = internal constant [28 x i8] c"XA_HTTP_CLIENT_HANDLER_TYPE\00", align 1
 @__app_environment_variables_v_4.9 = internal constant [42 x i8] c"Xamarin.Android.Net.AndroidMessageHandler\00", align 1
 @__app_environment_variables_n_5.10 = internal constant [29 x i8] c"__XA_PACKAGE_NAMING_POLICY__\00", align 1
@@ -123,7 +123,7 @@ target triple = "aarch64-unknown-linux-android"
 	i32 3, ; package_naming_policy
 	i32 12, ; environment_variable_count
 	i32 0, ; system_property_count
-	i32 269, ; number_of_assemblies_in_apk
+	i32 273, ; number_of_assemblies_in_apk
 	i32 68, ; bundled_assembly_name_width
 	i32 2, ; number_of_assembly_store_files
 	i32 32, ; number_of_dso_cache_entries
@@ -642,10 +642,14 @@ target triple = "aarch64-unknown-linux-android"
 @__XamarinAndroidBundledAssembly_name_266 = internal global [68 x i8] zeroinitializer, align 1
 @__XamarinAndroidBundledAssembly_name_267 = internal global [68 x i8] zeroinitializer, align 1
 @__XamarinAndroidBundledAssembly_name_268 = internal global [68 x i8] zeroinitializer, align 1
+@__XamarinAndroidBundledAssembly_name_269 = internal global [68 x i8] zeroinitializer, align 1
+@__XamarinAndroidBundledAssembly_name_270 = internal global [68 x i8] zeroinitializer, align 1
+@__XamarinAndroidBundledAssembly_name_271 = internal global [68 x i8] zeroinitializer, align 1
+@__XamarinAndroidBundledAssembly_name_272 = internal global [68 x i8] zeroinitializer, align 1
 
 
 ; Bundled assembly name buffers, all 68 bytes long
-@bundled_assemblies = local_unnamed_addr global [269 x %struct.XamarinAndroidBundledAssembly] [
+@bundled_assemblies = local_unnamed_addr global [273 x %struct.XamarinAndroidBundledAssembly] [
 	; 0
 	%struct.XamarinAndroidBundledAssembly {
 		i32 -1, ; apk_fd
@@ -3066,6 +3070,42 @@ target triple = "aarch64-unknown-linux-android"
 		i8* null, ; data
 		i32 68, ; name_length
 		i8* getelementptr inbounds ([68 x i8], [68 x i8]* @__XamarinAndroidBundledAssembly_name_268, i32 0, i32 0); name
+	}, 
+	; 269
+	%struct.XamarinAndroidBundledAssembly {
+		i32 -1, ; apk_fd
+		i32 0, ; data_offset
+		i32 0, ; data_size
+		i8* null, ; data
+		i32 68, ; name_length
+		i8* getelementptr inbounds ([68 x i8], [68 x i8]* @__XamarinAndroidBundledAssembly_name_269, i32 0, i32 0); name
+	}, 
+	; 270
+	%struct.XamarinAndroidBundledAssembly {
+		i32 -1, ; apk_fd
+		i32 0, ; data_offset
+		i32 0, ; data_size
+		i8* null, ; data
+		i32 68, ; name_length
+		i8* getelementptr inbounds ([68 x i8], [68 x i8]* @__XamarinAndroidBundledAssembly_name_270, i32 0, i32 0); name
+	}, 
+	; 271
+	%struct.XamarinAndroidBundledAssembly {
+		i32 -1, ; apk_fd
+		i32 0, ; data_offset
+		i32 0, ; data_size
+		i8* null, ; data
+		i32 68, ; name_length
+		i8* getelementptr inbounds ([68 x i8], [68 x i8]* @__XamarinAndroidBundledAssembly_name_271, i32 0, i32 0); name
+	}, 
+	; 272
+	%struct.XamarinAndroidBundledAssembly {
+		i32 -1, ; apk_fd
+		i32 0, ; data_offset
+		i32 0, ; data_size
+		i8* null, ; data
+		i32 68, ; name_length
+		i8* getelementptr inbounds ([68 x i8], [68 x i8]* @__XamarinAndroidBundledAssembly_name_272, i32 0, i32 0); name
 	}
 ], align 8; end of 'bundled_assemblies' array
 
@@ -3084,4 +3124,4 @@ target triple = "aarch64-unknown-linux-android"
 !3 = !{i32 1, !"sign-return-address", i32 0}
 !4 = !{i32 1, !"sign-return-address-all", i32 0}
 !5 = !{i32 1, !"sign-return-address-with-bkey", i32 0}
-!6 = !{!"Xamarin.Android remotes/origin/release/7.0.2xx @ a7e0eff127904fe24804423572ac38864346d200"}
+!6 = !{!"Xamarin.Android remotes/origin/release/7.0.1xx @ af18b843d16f5ecad3171016fb66efecdb78c4bf"}

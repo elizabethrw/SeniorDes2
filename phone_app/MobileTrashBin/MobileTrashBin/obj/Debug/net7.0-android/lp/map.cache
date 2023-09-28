@@ -156,3 +156,5 @@ Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Plugin.BLE.dll
+InTheHand.AndroidActivity.dll
+InTheHand.Net.Bluetooth.dll
