@@ -14,7 +14,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 052 | 2023-09-26 | Christopher | Test motors to see which directions they spin when powered. | 2023-10-05 |  |  |
 | 053 | 2023-09-26 | Elizabeth | Write basic test script that uses the GPIO board to make the motors run (aka the robot move). | 2023-10-05 | 2023-09-27 | "testMotors.py” is saved on the Raspberry Pi, no errors from compiling, cannot run/test motors until the power supply arrives. |
 | 054 | 2023-09-26 | Jacob | 2023-09-26 | Identify blueprint (if possible) of GPIO board so it is clear which number each GPIO pin is. | 2023-09-28 | https://pinout.xyz/ / https://www.tutorialspoint.com/raspberry_pi/raspberry_pi_gpio_connector.htm |
-| 055 | 2023-09-26 | Elizabeth | Document W04 Meeting Minutes on GitHub. | 2023-10-01 |  |  |
+| 055 | 2023-09-26 | Elizabeth | Document W04 Meeting Minutes on GitHub. | 2023-10-01 | 2023-09-30 | https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W04%20Minutes.md |
 | 056 | 2023-09-26 | Elizabeth | Bring ruler to measure board. | 2023-09-28 | 2023-09-28 | Brought ruler and used it to measure where to cut board for robot. |
 | 057 | 2023-09-26 | Elizabeth | Send email to whomitmayconcern to ask about the power supply in the WSU labs not working correctly, and ask if there is a power supply that can be borrowed (since the group’s power supply has not arrived). | 2023-09-26 | 2023-09-26 | Email about this concern has been sent to whomitmayconcern. |
 | 058 | 2023-09-28 | Ji | Solder pin headers on motor controller | 2023-10-05 |  |  |
