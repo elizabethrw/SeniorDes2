@@ -30,6 +30,7 @@
                 HeightRequest="150"
                 Clicked="OnCounterClicked"
                 CornerRadius="60"
+                IsEnabled="False"
                 HorizontalOptions="Center"
                 VerticalOptions="Center" />
 
@@ -39,6 +40,25 @@
                 SemanticProperties.HeadingLevel="Level2"
                 FontSize="18"
                 TextColor="Coral"
+                HorizontalOptions="Center" />
+
+            <Label
+                x:Name="freeSp2"
+                Text=""
+                IsEnabled="False"
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="16"
+                TextColor="Green"
+                HorizontalOptions="Center" />
+
+            <Label
+                x:Name="freeSp3"
+                Text=""
+                IsEnabled="False"
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="16"
+                Loaded="BTListen"
+                TextColor="Red"
                 HorizontalOptions="Center" />
 
 
