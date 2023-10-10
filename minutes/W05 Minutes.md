@@ -13,7 +13,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 063 | 2023-10-03 | Ji | Bring wood glue | 2023-10-10 |  |  |
 | 064 | 2023-10-03 | Yahia | Test Bluetooth communication between devices | 2023-10-05 | 2023-10-05 | Communication attempt failed: ![image](https://github.com/elizabethrw/SeniorDes2/assets/77339445/ef8fe7f3-1853-4392-bcca-505a29ecd3b4) |
 | 065 | 2023-10-03 | Yahia | Reconfigure bluetooth code to confirm cross communication between mobile device and raspberry pi | 2023-10-12 |  |  |
-| 066 | 2023-10-03 | Elizabeth | Put W05 meeting minutes on GitHub | 2023-10-12 |  |  |
+| 066 | 2023-10-03 | Elizabeth | Put W05 meeting minutes on GitHub | 2023-10-12 | 2023-10-10 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W05%20Minutes.md |
 
 Group Decisions:
  - Decided we will need to obtain a lighter board for the sides and receptacle of the robot due to the weight of all the pieces cut.
