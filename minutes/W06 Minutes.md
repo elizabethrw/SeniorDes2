@@ -10,7 +10,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 068 | 2023-10-10 | Christopher | Test battery voltage before charging | 2023-10-10 | 2023-10-10 | Used multimeter on two terminals, measured 3.85V. Nominal is 3.7 V, so came pre-charged. |
 | 069 | 2023-10-10 | Elizabeth | Write test script that tests the proximity sensor outputs (smaller number outputs = closer object) | 2023-10-19 | 2023-10-12 | Code is on the raspberr pi titled "proximity.py" |
 | 070 | 2023-10-10 | Elizabeth | Write test script that tests the robot moving forward, backward, and turning left, turning right. | 2023-10-26 | 2023-10-12 | Code is on the raspberry pi titled “testMotorsForBack.py" |
-| 071 | 2023-10-10 | Elizabeth | Document W06 meeting minutes on GitHub | 2023-10-19 | 2023-10-17 | Link:  |
+| 071 | 2023-10-10 | Elizabeth | Document W06 meeting minutes on GitHub | 2023-10-19 | 2023-10-17 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W06%20Minutes.md |
 | 072 | 2023-10-10 | Christopher | Test voltage coming from voltage booster | 2023-10-10 | 2023-10-10 | Got 5.1V, nominal is 5V. |
 | 073 | 2023-10-10 | Ji | Purchase and bring centerpiece for the receptacle and the sides of the base. | 2023-10-17 | 2023-10-12 | Thinner board was brought to the lab. |
 | 074 | 2023-10-10 | Christopher | Test that 1 motor can be ran by battery. | 2023-10-10 | 2023-10-10 | Motors spun individually when connected to battery. |
