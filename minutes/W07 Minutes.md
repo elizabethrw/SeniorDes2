@@ -21,7 +21,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 092 | 2023-10-19 | Elizabeth | Get pieces cut out of front and side pieces of robot (for proximity sensor, camera, lid motor) | 2023-10-31 | 2023-10-24 | Brought the front and side pieces with cut outs to lab. |
 | 093 | 2023-10-19 | Christopher | Test if Battery can run RasPi and all 5 motors at the same time | 2023-10-19 | 2023-10-19 | Ran everything together, so everything does work off of the battery. |
 | 094 | 2023-10-19 | Elizabeth | Test “testMotorsForBack.py” script with Pi and motors hooked up to battery. | 2023-10-19 | 2023-10-19 | All motors spun in the right directions for each action, so it works correctly. |
-| 095 | 2023-10-19 | Elizabeth | Write W07 Minutes on GitHub. | 2023-10-26 | 2023-10-24 |  |
+| 095 | 2023-10-19 | Elizabeth | Write W07 Minutes on GitHub. | 2023-10-26 | 2023-10-24 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W07%20Minutes.md |
 
 Group Decisions:
  - Mobile trash bin base design is so the base and receptacle of the robot are the same instead of separate.
