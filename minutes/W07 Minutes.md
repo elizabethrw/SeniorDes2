@@ -15,8 +15,8 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 086 | 2023-10-17 | Yahia | Parse bluetooth input at raspberry pi. | 2023-10-26 |  |  |
 | 087 | 2023-10-17 | Christopher | Test if Boost Board will power Rasp Pi. | 2023-10-17 | 2023-10-17 | Raspberry Pi successfully boots with battery and Boost Board. |
 | 088 | 2023-10-17 | Christopher | Test if Proximity sensor outputs reasonable output | 2023-10-17 | 2023-10-17 | Proximity sensor outputs larger numbers for larger distances and smaller numbers for smaller distances, so it works. |
-| 089 | 2023-10-17 | Elizabeth | Write code that will output latitude and longitude of raspberry pi. | 2023-10-31 |  |  |
-| 090 | 2023-10-17 | Elizabeth | Write code that will have robot move forward, stop in front of object, and get around the object then stop (w/o GPS). | 2023-11-9 |  |  |
+| 089 | 2023-10-17 | Elizabeth | Write code that will output latitude and longitude of raspberry pi. | 2023-10-31 | 2023-10-26 | "goodGPS.py” is on the raspberry pi and outputs latitude and longitude. |
+| 090 | 2023-10-17 | Elizabeth | Write code that will have robot move forward, stop in front of object, and get around the object then stop (w/o GPS). | 2023-11-9 | 2023-10-26 | “aroundObjectNoGPS.py” is on the raspberry pi (not yet tested due to robot not yet being assembled). |
 | 091 | 2023-10-19 | Jacob | Identify resource for coding robot to move around an object. | 2023-10-19 | 2023-10-19 | https://docs.idew.org/code-robotics/references/robot-behaviors/detecting-objects |
 | 092 | 2023-10-19 | Elizabeth | Get pieces cut out of front and side pieces of robot (for proximity sensor, camera, lid motor) | 2023-10-31 | 2023-10-24 | Brought the front and side pieces with cut outs to lab. |
 | 093 | 2023-10-19 | Christopher | Test if Battery can run RasPi and all 5 motors at the same time | 2023-10-19 | 2023-10-19 | Ran everything together, so everything does work off of the battery. |
