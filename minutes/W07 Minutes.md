@@ -27,3 +27,4 @@ Group Decisions:
  - Mobile trash bin base design is so the base and receptacle of the robot are the same instead of separate.
  - Delay Action 48 from 2023-10-17 to 2023-11-9
  - Delay Action 47 from 2023-10-17 to 2023-10-31
+ - Task 86 is OBE since GPS working means not allowing Bluetooth usage (will use internet to connect to the raspberry pi).
