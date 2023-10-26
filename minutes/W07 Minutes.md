@@ -12,7 +12,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | 083 | 2023-10-17 | Christopher | Solder wires onto new Boost Board. | 2023-10-17 | 2023-10-17 | Wires are now soldered, appears to have good contact and no shorts. |
 | 084 | 2023-10-17 | Christopher | Test output of new Boost Board. | 2023-10-17 | 2023-10-17 | Output appears to not work unless it’s actually hooked up to something, so will need to test it with the RasPi. |
 | 085 | 2023-10-17 | Ji | Glue part of the receptacle to the base | 2023-10-19 | 2023-10-19 | Part of the receptacle was glued to the base. |
-| 086 | 2023-10-17 | Yahia | Parse bluetooth input at raspberry pi. | 2023-10-26 |  |  |
+| 086 | 2023-10-17 | Yahia | Parse bluetooth input at raspberry pi. | 2023-10-26 | OBE | OBE |
 | 087 | 2023-10-17 | Christopher | Test if Boost Board will power Rasp Pi. | 2023-10-17 | 2023-10-17 | Raspberry Pi successfully boots with battery and Boost Board. |
 | 088 | 2023-10-17 | Christopher | Test if Proximity sensor outputs reasonable output | 2023-10-17 | 2023-10-17 | Proximity sensor outputs larger numbers for larger distances and smaller numbers for smaller distances, so it works. |
 | 089 | 2023-10-17 | Elizabeth | Write code that will output latitude and longitude of raspberry pi. | 2023-10-31 | 2023-10-26 | "goodGPS.py” is on the raspberry pi and outputs latitude and longitude. |
