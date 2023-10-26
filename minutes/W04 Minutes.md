@@ -7,7 +7,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | --- | --- | --- | --- | --- | --- | --- |
 | 046 | 2023-09-26 | Elizabeth | Bring GPS device to class | 2023-09-26 | 2023-09-26 | GPS device was brought to class and is in the locker in the lab. |
 | 047 | 2023-09-26 | Ji | Build base of robot out of wood. | 2023-10-03 |  |  |
-| 048 | 2023-09-26 | Christopher | Make receptacle with no lid. | 2023-10-03 |  |  |
+| 048 | 2023-09-26 | Christopher | Make receptacle with no lid. | 2023-10-03 | OBE | OBE |
 | 049 | 2023-09-26 | Elizabeth | Unscrew case of Raspberry Pi for testing. | 2023-09-28 | 2023-09-26 | Unscrewed case of Raspberry Pi successfully in the lab (safe to use GPIO board when possible). |
 | 050 | 2023-09-26 | Christopher | Test motors to ensure that they spin. | 2023-09-28 | 2023-09-26 | Hooked motors to power supply, all motors spin |
 | 051 | 2023-09-26 | Christopher | Test motor controllers to see if they output expected signals based on inputs. | 2023-10-05 |  |  |
