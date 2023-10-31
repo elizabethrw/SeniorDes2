@@ -226,22 +226,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -2199,22 +2206,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -4172,22 +4186,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -6145,22 +6166,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -8118,22 +8146,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -10091,22 +10126,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -12064,22 +12106,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -14037,22 +14086,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/MonoAndroid/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/MonoAndroid/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.pdb;.XML"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -15984,22 +16040,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -16211,22 +16274,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -16438,22 +16508,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -16665,22 +16742,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -16892,22 +16976,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17119,22 +17210,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17346,22 +17444,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17573,22 +17678,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -17797,22 +17909,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -18013,22 +18132,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -18229,22 +18355,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -18445,22 +18578,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -18661,22 +18801,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -18877,22 +19024,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -19093,22 +19247,29 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
@@ -19309,27 +19470,81 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -19663,27 +19878,84 @@
           }
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -19989,27 +20261,84 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/android-arm64": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -20315,27 +20644,84 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -20641,27 +21027,84 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/android-x86": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -20967,27 +21410,84 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -21293,27 +21793,84 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -21619,27 +22176,84 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     },
     "net7.0-windows10.0.19041/win10-x64": {
+      "CommunityToolkit.Common/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/CommunityToolkit.Common.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.Common": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
+      "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI": "7.1.2",
+          "Microsoft.WindowsAppSDK": "1.0.0"
+        },
+        "compile": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll": {
+            "related": ".pdb;.pri;.xml"
+          }
+        }
+      },
       "InTheHand.Net.Bluetooth/4.0.36": {
         "type": "package",
         "compile": {
@@ -21951,28 +22565,100 @@
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
       },
-      "Plugin.BLE/2.1.3": {
+      "MQTTnet/4.3.1.873": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Plugin.BLE.Abstractions.dll": {
-            "related": ".deps.json;.pdb"
-          },
-          "lib/netstandard2.0/Plugin.BLE.dll": {
-            "related": ".Abstractions.deps.json;.Abstractions.pdb;.deps.json;.pdb"
+          "lib/net7.0/MQTTnet.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Plugin.BLE/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "CommunityToolkit.WinUI.Connectivity": "7.1.2"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Plugin.BLE.dll": {
+            "related": ".pdb;.xml"
           }
         }
       }
     }
   },
   "libraries": {
+    "CommunityToolkit.Common/7.1.2": {
+      "sha512": "KnHnukN+Sc26YT98OWYTp8mvaYlLc61lzDh0RrVRNQXm01hZ+iXAjCgKM59vAojqxNVrlbcXj22LYOyXWDItgg==",
+      "type": "package",
+      "path": "communitytoolkit.common/7.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "communitytoolkit.common.7.1.2.nupkg.sha512",
+        "communitytoolkit.common.nuspec",
+        "lib/net5.0/CommunityToolkit.Common.dll",
+        "lib/net5.0/CommunityToolkit.Common.pdb",
+        "lib/net5.0/CommunityToolkit.Common.xml",
+        "lib/netstandard1.4/CommunityToolkit.Common.dll",
+        "lib/netstandard1.4/CommunityToolkit.Common.pdb",
+        "lib/netstandard1.4/CommunityToolkit.Common.xml",
+        "lib/netstandard2.0/CommunityToolkit.Common.dll",
+        "lib/netstandard2.0/CommunityToolkit.Common.pdb",
+        "lib/netstandard2.0/CommunityToolkit.Common.xml",
+        "lib/netstandard2.1/CommunityToolkit.Common.dll",
+        "lib/netstandard2.1/CommunityToolkit.Common.pdb",
+        "lib/netstandard2.1/CommunityToolkit.Common.xml"
+      ]
+    },
+    "CommunityToolkit.WinUI/7.1.2": {
+      "sha512": "0O6hCHy+/adJygcROD3r3yA41gRq972i/r6uGUfo8lfEbr/I1YGePTClAh1P9JYT7DdoI2IqeUhX05lq+rwrHg==",
+      "type": "package",
+      "path": "communitytoolkit.winui/7.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "communitytoolkit.winui.7.1.2.nupkg.sha512",
+        "communitytoolkit.winui.nuspec",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.dll",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.pdb",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.pri",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.xml"
+      ]
+    },
+    "CommunityToolkit.WinUI.Connectivity/7.1.2": {
+      "sha512": "50/Ug/0pp2o2IUMxulMf3mGliFZC9qi4eulQSoVHfyFCibzMuj3k+9QSPF54GLAsXfYdwOVBerT/Zau9SON7ZQ==",
+      "type": "package",
+      "path": "communitytoolkit.winui.connectivity/7.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "communitytoolkit.winui.connectivity.7.1.2.nupkg.sha512",
+        "communitytoolkit.winui.connectivity.nuspec",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.dll",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.pdb",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.pri",
+        "lib/net5.0-windows10.0.18362/CommunityToolkit.WinUI.Connectivity.xml"
+      ]
+    },
     "GoogleGson/2.9.1.1": {
       "sha512": "OreKEL2Yx2u8YhRqv0e+j45cEzoe+fyMEzGN+M/vfBDPsIXQcA6lGdHXO07bTrGn6NNwxY67dyIfbyXx3A7cDA==",
       "type": "package",
@@ -23258,38 +23944,91 @@
         "tools/x86/GenXbf.dll"
       ]
     },
-    "Plugin.BLE/2.1.3": {
-      "sha512": "qGLGPvZWnmEjFh0sKF25efN6f5kiCaNybAlSX02F/VpgbyI5kQDjHYuJLebQ+nqbdyAnwsvz/yTZR5ioRainIg==",
+    "MQTTnet/4.3.1.873": {
+      "sha512": "5Btmzjv9TWQewlHL6QPB3/deTxAfHf0cR1ixehH/4311oKUpiYrgt1uQZFTbyBWjR7zVKv1U3+s4o3IPm/++Ww==",
       "type": "package",
-      "path": "plugin.ble/2.1.3",
+      "path": "mqttnet/4.3.1.873",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
+        "lib/net452/MQTTnet.dll",
+        "lib/net452/MQTTnet.xml",
+        "lib/net461/MQTTnet.dll",
+        "lib/net461/MQTTnet.xml",
+        "lib/net48/MQTTnet.dll",
+        "lib/net48/MQTTnet.xml",
+        "lib/net5.0/MQTTnet.dll",
+        "lib/net5.0/MQTTnet.xml",
+        "lib/net6.0/MQTTnet.dll",
+        "lib/net6.0/MQTTnet.xml",
+        "lib/net7.0/MQTTnet.dll",
+        "lib/net7.0/MQTTnet.xml",
+        "lib/netcoreapp3.1/MQTTnet.dll",
+        "lib/netcoreapp3.1/MQTTnet.xml",
+        "lib/netstandard1.3/MQTTnet.dll",
+        "lib/netstandard1.3/MQTTnet.xml",
+        "lib/netstandard2.0/MQTTnet.dll",
+        "lib/netstandard2.0/MQTTnet.xml",
+        "lib/netstandard2.1/MQTTnet.dll",
+        "lib/netstandard2.1/MQTTnet.xml",
+        "lib/uap10.0.10240/MQTTnet.dll",
+        "lib/uap10.0.10240/MQTTnet.pri",
+        "lib/uap10.0.10240/MQTTnet.xml",
+        "mqttnet.4.3.1.873.nupkg.sha512",
+        "mqttnet.nuspec",
+        "nuget.png"
+      ]
+    },
+    "Plugin.BLE/3.0.0": {
+      "sha512": "9SXMCmmCGW1FfOquBc6oBJuR3G0M9L2Qfovr9zoIEf799OvdrxFtrgs4KpYJbbAOyhC3EULG9x/1zEK9S3y1HA==",
+      "type": "package",
+      "path": "plugin.ble/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
         "icon_small.png",
-        "lib/MonoAndroid/Plugin.BLE.Abstractions.deps.json",
-        "lib/MonoAndroid/Plugin.BLE.Abstractions.dll",
-        "lib/MonoAndroid/Plugin.BLE.Abstractions.pdb",
-        "lib/MonoAndroid/Plugin.BLE.XML",
-        "lib/MonoAndroid/Plugin.BLE.dll",
-        "lib/MonoAndroid/Plugin.BLE.pdb",
-        "lib/Xamarin.iOS10/Plugin.BLE.Abstractions.deps.json",
-        "lib/Xamarin.iOS10/Plugin.BLE.Abstractions.dll",
-        "lib/Xamarin.iOS10/Plugin.BLE.Abstractions.pdb",
-        "lib/Xamarin.iOS10/Plugin.BLE.XML",
-        "lib/Xamarin.iOS10/Plugin.BLE.dll",
-        "lib/Xamarin.iOS10/Plugin.BLE.pdb",
-        "lib/netstandard2.0/Plugin.BLE.Abstractions.deps.json",
-        "lib/netstandard2.0/Plugin.BLE.Abstractions.dll",
-        "lib/netstandard2.0/Plugin.BLE.Abstractions.pdb",
-        "lib/netstandard2.0/Plugin.BLE.deps.json",
+        "lib/monoandroid13.0/Plugin.BLE.dll",
+        "lib/monoandroid13.0/Plugin.BLE.pdb",
+        "lib/monoandroid13.0/Plugin.BLE.xml",
+        "lib/net6.0-android33.0/Plugin.BLE.dll",
+        "lib/net6.0-android33.0/Plugin.BLE.pdb",
+        "lib/net6.0-android33.0/Plugin.BLE.xml",
+        "lib/net6.0-ios16.1/Plugin.BLE.dll",
+        "lib/net6.0-ios16.1/Plugin.BLE.pdb",
+        "lib/net6.0-ios16.1/Plugin.BLE.xml",
+        "lib/net6.0-maccatalyst16.1/Plugin.BLE.dll",
+        "lib/net6.0-maccatalyst16.1/Plugin.BLE.pdb",
+        "lib/net6.0-maccatalyst16.1/Plugin.BLE.xml",
+        "lib/net6.0-windows10.0.19041/Plugin.BLE.dll",
+        "lib/net6.0-windows10.0.19041/Plugin.BLE.pdb",
+        "lib/net6.0-windows10.0.19041/Plugin.BLE.xml",
+        "lib/net7.0-android33.0/Plugin.BLE.dll",
+        "lib/net7.0-android33.0/Plugin.BLE.pdb",
+        "lib/net7.0-android33.0/Plugin.BLE.xml",
+        "lib/net7.0-ios16.1/Plugin.BLE.dll",
+        "lib/net7.0-ios16.1/Plugin.BLE.pdb",
+        "lib/net7.0-ios16.1/Plugin.BLE.xml",
+        "lib/net7.0-maccatalyst16.1/Plugin.BLE.dll",
+        "lib/net7.0-maccatalyst16.1/Plugin.BLE.pdb",
+        "lib/net7.0-maccatalyst16.1/Plugin.BLE.xml",
+        "lib/net7.0-windows10.0.19041/Plugin.BLE.dll",
+        "lib/net7.0-windows10.0.19041/Plugin.BLE.pdb",
+        "lib/net7.0-windows10.0.19041/Plugin.BLE.xml",
         "lib/netstandard2.0/Plugin.BLE.dll",
         "lib/netstandard2.0/Plugin.BLE.pdb",
-        "lib/xamarinmac20/Plugin.BLE.Abstractions.deps.json",
-        "lib/xamarinmac20/Plugin.BLE.Abstractions.dll",
-        "lib/xamarinmac20/Plugin.BLE.Abstractions.pdb",
+        "lib/netstandard2.0/Plugin.BLE.xml",
+        "lib/uap10.0.17763/Plugin.BLE.dll",
+        "lib/uap10.0.17763/Plugin.BLE.pdb",
+        "lib/uap10.0.17763/Plugin.BLE.pri",
+        "lib/uap10.0.17763/Plugin.BLE.xml",
+        "lib/xamarinios10/Plugin.BLE.dll",
+        "lib/xamarinios10/Plugin.BLE.pdb",
+        "lib/xamarinios10/Plugin.BLE.xml",
         "lib/xamarinmac20/Plugin.BLE.dll",
-        "lib/xamarinmac20/Plugin.BLE.macOS.xml",
-        "plugin.ble.2.1.3.nupkg.sha512",
+        "lib/xamarinmac20/Plugin.BLE.pdb",
+        "lib/xamarinmac20/Plugin.BLE.xml",
+        "plugin.ble.3.0.0.nupkg.sha512",
         "plugin.ble.nuspec"
       ]
     },
@@ -25311,13 +26050,14 @@
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
       "InTheHand.Net.Bluetooth >= 4.0.36",
+      "MQTTnet >= 4.3.1.873",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
       "Microsoft.Maui.Graphics >= 7.0.59",
-      "Plugin.BLE >= 2.1.3",
+      "Plugin.BLE >= 3.0.0",
       "Xamarin.Android.Glide >= 4.13.2.2",
       "Xamarin.AndroidX.Browser >= 1.4.0.3",
       "Xamarin.AndroidX.Legacy.Support.V4 >= 1.0.0.15",
@@ -25332,26 +26072,29 @@
     ],
     "net7.0-ios16.1": [
       "InTheHand.Net.Bluetooth >= 4.0.36",
+      "MQTTnet >= 4.3.1.873",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
       "Microsoft.Maui.Graphics >= 7.0.59",
-      "Plugin.BLE >= 2.1.3"
+      "Plugin.BLE >= 3.0.0"
     ],
     "net7.0-maccatalyst16.1": [
       "InTheHand.Net.Bluetooth >= 4.0.36",
+      "MQTTnet >= 4.3.1.873",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
       "Microsoft.Maui.Graphics >= 7.0.59",
-      "Plugin.BLE >= 2.1.3"
+      "Plugin.BLE >= 3.0.0"
     ],
     "net7.0-windows10.0.19041": [
       "InTheHand.Net.Bluetooth >= 4.0.36",
+      "MQTTnet >= 4.3.1.873",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -25361,7 +26104,7 @@
       "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.59",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
       "Microsoft.WindowsAppSDK >= 1.2.221209.1",
-      "Plugin.BLE >= 2.1.3"
+      "Plugin.BLE >= 3.0.0"
     ]
   },
   "packageFolders": {
@@ -25429,6 +26172,10 @@
             "target": "Package",
             "version": "[4.0.36, )"
           },
+          "MQTTnet": {
+            "target": "Package",
+            "version": "[4.3.1.873, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -25460,7 +26207,7 @@
           },
           "Plugin.BLE": {
             "target": "Package",
-            "version": "[2.1.3, )"
+            "version": "[3.0.0, )"
           },
           "Xamarin.Android.Glide": {
             "target": "Package",
@@ -25555,6 +26302,10 @@
             "target": "Package",
             "version": "[4.0.36, )"
           },
+          "MQTTnet": {
+            "target": "Package",
+            "version": "[4.3.1.873, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -25586,7 +26337,7 @@
           },
           "Plugin.BLE": {
             "target": "Package",
-            "version": "[2.1.3, )"
+            "version": "[3.0.0, )"
           }
         },
         "imports": [
@@ -25626,6 +26377,10 @@
             "target": "Package",
             "version": "[4.0.36, )"
           },
+          "MQTTnet": {
+            "target": "Package",
+            "version": "[4.3.1.873, )"
+          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
             "version": "[7.0.0, )",
@@ -25657,7 +26412,7 @@
           },
           "Plugin.BLE": {
             "target": "Package",
-            "version": "[2.1.3, )"
+            "version": "[3.0.0, )"
           }
         },
         "imports": [
@@ -25697,6 +26452,10 @@
           "InTheHand.Net.Bluetooth": {
             "target": "Package",
             "version": "[4.0.36, )"
+          },
+          "MQTTnet": {
+            "target": "Package",
+            "version": "[4.3.1.873, )"
           },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
@@ -25745,7 +26504,7 @@
           },
           "Plugin.BLE": {
             "target": "Package",
-            "version": "[2.1.3, )"
+            "version": "[3.0.0, )"
           }
         },
         "imports": [

@@ -1956,3 +1956,4 @@ C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\
 C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-android\android\src\crc64881974363b014be5\BluetoothDevicePickerReceiver.java
 C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-android\android\src\crc64881974363b014be5\BluetoothDiscoveryReceiver.java
 C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-android\android\src\crc64b9ff3938fde5bc74\BluetoothUuidReceiver.java
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-android\android\assets\MQTTnet.dll

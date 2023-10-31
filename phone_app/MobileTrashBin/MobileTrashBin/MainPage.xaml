@@ -18,7 +18,7 @@
                 HorizontalOptions="Center" />
 
             <Label
-                Text="V0.02"
+                Text="V0.2"
                 SemanticProperties.HeadingLevel="Level2"
                 FontSize="18"
                 HorizontalOptions="Center" />
@@ -28,38 +28,54 @@
                 Text="Summon"
                 WidthRequest="150"
                 HeightRequest="150"
-                Clicked="OnCounterClicked"
+                Clicked="SummonRequest"
                 CornerRadius="60"
-                IsEnabled="False"
                 HorizontalOptions="Center"
                 VerticalOptions="Center" />
 
             <Label
-                x:Name="freeSp"
-                Text="Bluetooth State"
+                x:Name="_status"
+                Text="Unknown Status"
                 SemanticProperties.HeadingLevel="Level2"
                 FontSize="18"
-                TextColor="Coral"
+                TextColor="ForestGreen"
                 HorizontalOptions="Center" />
-
+            
             <Label
-                x:Name="freeSp2"
+                x:Name="_error"
                 Text=""
-                IsEnabled="False"
                 SemanticProperties.HeadingLevel="Level2"
-                FontSize="16"
-                TextColor="Green"
-                HorizontalOptions="Center" />
-
-            <Label
-                x:Name="freeSp3"
-                Text=""
-                IsEnabled="False"
-                SemanticProperties.HeadingLevel="Level2"
-                FontSize="16"
-                Loaded="BTListen"
+                FontSize="14"
                 TextColor="Red"
                 HorizontalOptions="Center" />
+            <Entry
+                x:Name="_addr"
+                Text=""
+                HeightRequest="50"
+                WidthRequest="125"
+                />
+            <ScrollView
+                Orientation="Vertical"
+                VerticalScrollBarVisibility="Always"
+                MinimumHeightRequest="200"
+                MaximumHeightRequest="200"
+                MinimumWidthRequest="300"
+                MaximumWidthRequest="300">
+                <Editor
+                    x:Name="_tx_box"
+                    Text="Location History:"
+                    VerticalTextAlignment="Start"
+                    VerticalOptions="FillAndExpand"
+                    AutoSize="TextChanges"/>
+            </ScrollView>
+
+            <Button
+                Text="Copy Most Recent Location"
+                WidthRequest="125"
+                HeightRequest="50"
+                Clicked="CopyToClip"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
 
 
 

@@ -65,6 +65,10 @@
               "target": "Package",
               "version": "[4.0.36, )"
             },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.1.873, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -96,7 +100,7 @@
             },
             "Plugin.BLE": {
               "target": "Package",
-              "version": "[2.1.3, )"
+              "version": "[3.0.0, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -191,6 +195,10 @@
               "target": "Package",
               "version": "[4.0.36, )"
             },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.1.873, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -222,7 +230,7 @@
             },
             "Plugin.BLE": {
               "target": "Package",
-              "version": "[2.1.3, )"
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -262,6 +270,10 @@
               "target": "Package",
               "version": "[4.0.36, )"
             },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.1.873, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -293,7 +305,7 @@
             },
             "Plugin.BLE": {
               "target": "Package",
-              "version": "[2.1.3, )"
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -333,6 +345,10 @@
             "InTheHand.Net.Bluetooth": {
               "target": "Package",
               "version": "[4.0.36, )"
+            },
+            "MQTTnet": {
+              "target": "Package",
+              "version": "[4.3.1.873, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -381,7 +397,7 @@
             },
             "Plugin.BLE": {
               "target": "Package",
-              "version": "[2.1.3, )"
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
