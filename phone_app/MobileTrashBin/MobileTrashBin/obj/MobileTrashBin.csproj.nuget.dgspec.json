@@ -98,6 +98,10 @@
               "version": "[7.0.59, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Plugin.BLE": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -228,6 +232,10 @@
               "version": "[7.0.59, )",
               "autoReferenced": true
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Plugin.BLE": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -302,6 +310,10 @@
               "target": "Package",
               "version": "[7.0.59, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Plugin.BLE": {
               "target": "Package",
@@ -394,6 +406,10 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Plugin.BLE": {
               "target": "Package",

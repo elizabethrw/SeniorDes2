@@ -322,3 +322,18 @@ C:\Users\ocanc\Desktop\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\De
 C:\Users\ocanc\Desktop\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ocanc\Desktop\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ocanc\Desktop\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MobileTrashBin.csproj.AssemblyReference.cache
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MobileTrashBin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MobileTrashBin.dll
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\refint\MobileTrashBin.dll
+C:\Users\YESYESYES\Desktop\mobile bin robot\SeniorDes2\phone_app\MobileTrashBin\MobileTrashBin\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MobileTrashBin.pdb

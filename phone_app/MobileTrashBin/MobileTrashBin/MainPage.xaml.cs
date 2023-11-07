@@ -1,34 +1,30 @@
-﻿using InTheHand.Net.Sockets;
-using InTheHand.Net.Bluetooth;
-using InTheHand.Net;
-using System.Text;
-using System;
-using System.Security.Cryptography;
-using Plugin.BLE;
-using Plugin.BLE.Abstractions.Contracts;
-using Plugin.BLE.Abstractions.Extensions;
-using Microsoft.Maui.Devices.Sensors;
-using MQTTnet.Server;
-using MQTTnet.Client;
+﻿using MQTTnet.Client;
 using MQTTnet;
+using System.Linq.Expressions;
+using System.Text;
+using System.Net.WebSockets;
+using Newtonsoft.Json;
+using Android.App;
 
 namespace MobileTrashBin;
+
+public class RequestInfo
+{
+    public string sender = DeviceInfo.Current.Name;
+    public string type { get; set; }
+    public double latitude { get; set; }
+    public double longitude { get; set; }
+    public Dictionary<string, int> data { get; set; }
+}
 
 public partial class MainPage : ContentPage
 {
 
-    IBluetoothLE ble = CrossBluetoothLE.Current;
-    IAdapter adapter = CrossBluetoothLE.Current.Adapter;
 
-    ICharacteristic _characteristic = null;
-    string uuid = null;
+    static private MqttFactory mqttFactory = new MqttFactory();
+    static private IMqttClient _mqtt = mqttFactory.CreateMqttClient();
 
-    BluetoothClient client = new BluetoothClient();
-    BluetoothDeviceInfo rasp = null;
-    // Bluetooth Address: DCA6322171C1 (Byte array is inveresed "C1", "71", "21", "32", "A6", "DC")
-    //static byte[] addr = { 193, 113, 33, 50, 166, 220 };
-    BluetoothAddress raspAdr;// = new BluetoothAddress(addr);
-
+    ContentPage ControlsPage = new Controls();
 
     public MainPage()
     {
@@ -38,10 +34,16 @@ public partial class MainPage : ContentPage
         string default_addr = "192.168.0.104";
         _addr.Text = default_addr;
         ConnectMQTT();
+
+
+        _mqtt.ConnectedAsync += ConnectionEstablished;
+        _mqtt.DisconnectedAsync += DisconnectedClient;
+        _mqtt.ApplicationMessageReceivedAsync += NotificationReceived;
+
     }
 
 
-    int _count = 1;
+    int _count = 0;
     string _recent = null;
     private async void SummonRequest(object sender, EventArgs e)
     {
@@ -49,7 +51,6 @@ public partial class MainPage : ContentPage
         {
             CallBot.Text = "Sending...";
             CallBot.IsEnabled = false;
-            ConnectMQTT();
             Location location = await Geolocation.GetLocationAsync(new GeolocationRequest()
             {
                 DesiredAccuracy = GeolocationAccuracy.Best,
@@ -58,9 +59,17 @@ public partial class MainPage : ContentPage
             if (location != null)
                 _recent = $"{location.Latitude}, {location.Longitude}";
 
-            _tx_box.Text += $"\nLocation {_count}:\n{_recent}\n";
             _count++;
-            // await _characteristic.WriteAsync(Encoding.ASCII.GetBytes(data));
+
+            _tx_box.Text += $"\nLocation {_count}:\n{_recent}\n";
+
+            RequestInfo unformatted = new RequestInfo();
+            unformatted.type = "summon";
+            unformatted.latitude = location.Latitude;
+            unformatted.longitude = location.Longitude;
+            
+            await SendBot(JsonConvert.SerializeObject(unformatted));
+
             _error.Text = "";
             CallBot.Text = "Sent";
             await Task.Delay(1000);
@@ -70,14 +79,17 @@ public partial class MainPage : ContentPage
         catch (Exception ex)
         {
             CallBot.Text = "Failed";
-            _error.Text = "Confirm bluetooth is enabled and device is paired\nError: " + ex.Message;
-            _status.Text = (_status.Text == "Ready") ? "Disconnected" : _status.Text;
-            uuid = null;
-            _characteristic = null;
+            _error.Text = "Error: " + ex.Message;
+            _status.Text = "Disconnected";
             await Task.Delay(1000);
             CallBot.IsEnabled = true;
             CallBot.Text = "Retry";
         }
+    }
+
+    private void viewControls(object sender, EventArgs e)
+    {
+        Navigation.PushAsync(ControlsPage);
     }
 
     
@@ -94,29 +106,89 @@ public partial class MainPage : ContentPage
         await Clipboard.Default.SetTextAsync(_recent);
     }
 
-    async Task ConnectMQTT()
+    public async static Task SendBot(string msg)
     {
-        var mqttFactory = new MqttFactory();
-
-        using (var mqttClient = mqttFactory.CreateMqttClient())
+        try
         {
-            // Use builder classes where possible in this project.
-            var mqttClientOptions = new MqttClientOptionsBuilder().WithTcpServer(_addr.Text).Build();
-
-            // This will throw an exception if the server is not available.
-            // The result from this message returns additional data which was sent 
-            // from the server. Please refer to the MQTT protocol specification for details.
-            var response = await mqttClient.ConnectAsync(mqttClientOptions, CancellationToken.None);
-            _status.Text = "The MQTT client is connected.";
-
-            // Send a clean disconnect to the server by calling _DisconnectAsync_. Without this the TCP connection
-            // gets dropped and the server will handle this as a non clean disconnect (see MQTT spec for details).
-            var mqttClientDisconnectOptions = mqttFactory.CreateClientDisconnectOptionsBuilder().Build();
-
-            await mqttClient.DisconnectAsync(mqttClientDisconnectOptions, CancellationToken.None);
+            var appMsg = new MqttApplicationMessageBuilder().WithTopic("thread/pi").WithPayload(msg).Build();
+            await _mqtt.PublishAsync(appMsg);
+        } catch (Exception ex)
+        {
+            System.Diagnostics.Debug.WriteLine(ex.Message);
         }
     }
+        
+    private Task ConnectionEstablished(MqttClientConnectedEventArgs arg)
+    {
+        _status.Text = "Connected";
+        return Task.CompletedTask;
+    }
 
+    private Task DisconnectedClient(MqttClientDisconnectedEventArgs arg)
+    {
+        _status.Text = "Disconnected";
+        return Task.CompletedTask;
+    }
+
+    private Task NotificationReceived(MqttApplicationMessageReceivedEventArgs arg)
+    {
+        _rcv_box.Text += $"\n{arg.ClientId}: \n{Encoding.UTF8.GetString(arg.ApplicationMessage.PayloadSegment)}";
+        return Task.CompletedTask;
+    }
+
+    private async void Reconnect(object sender, EventArgs e)
+    {
+        await ConnectMQTT();
+    }
+
+    async Task ConnectMQTT()
+    {
+        try
+        {
+            _error.Text = "";
+            _recon.IsEnabled = false;
+
+            var tokenSource = new CancellationTokenSource(TimeSpan.FromSeconds(3));
+
+            var mqttClientOptions = new MqttClientOptionsBuilder().WithTcpServer(_addr.Text).Build();
+            await _mqtt.ConnectAsync(mqttClientOptions, tokenSource.Token);
+
+            var mqttSubOptions = new MqttClientSubscribeOptionsBuilder().WithTopicFilter($"thread/{DeviceInfo.Current.Name}").Build();
+            await _mqtt.SubscribeAsync(mqttSubOptions);
+        }
+        catch (Exception ex)
+        {
+            _error.Text = ex.Message;
+        }
+            
+    }
+
+    private void enableRecon()
+    {
+        if (_recon.IsEnabled) return;
+        _recon.IsEnabled = true;
+    }
+
+    private async void _turn_off(object sender, EventArgs e) {
+        var confirmCall = DisplayAlert(
+          "Shutdown Raspberry Pi",
+          "You would have to manually turn the raspberry pi back on to reinstate communication\nWould you like to continue?",
+          "Yes",
+          "No");
+        if (!(await confirmCall))
+            return;
+
+        RequestInfo unformatted = new RequestInfo();
+        unformatted.type = "shutdown";
+        await SendBot(JsonConvert.SerializeObject(unformatted));
+        enableRecon();
+        await _mqtt.DisconnectAsync();
+    }
+
+    private void _addr_TextChanged(object sender, TextChangedEventArgs e)
+    {
+        enableRecon();
+    }
 }
 
 

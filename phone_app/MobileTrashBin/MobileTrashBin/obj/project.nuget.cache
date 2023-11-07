@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "P40sldrwxu/wAwbf0xy49KL1dIRvkGqdhKTnKhWWN2hFarkgWc/tDONfhfvOYsLSErlPm1AUwILnVa3z13Mpjg==",
+  "dgSpecHash": "g2LBn6NXbh2HIvNsFtsT6PNBZKOAVkMq8Su9rf9USPQ/0A+V1hVIbCppcIO2xk/4Z2zHcLEkT41LwUunT0l41w==",
   "success": true,
   "projectFilePath": "C:\\Users\\YESYESYES\\Desktop\\mobile bin robot\\SeniorDes2\\phone_app\\MobileTrashBin\\MobileTrashBin\\MobileTrashBin.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\YESYESYES\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",
     "C:\\Users\\YESYESYES\\.nuget\\packages\\mqttnet\\4.3.1.873\\mqttnet.4.3.1.873.nupkg.sha512",
+    "C:\\Users\\YESYESYES\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\YESYESYES\\.nuget\\packages\\plugin.ble\\3.0.0\\plugin.ble.3.0.0.nupkg.sha512",
     "C:\\Users\\YESYESYES\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
     "C:\\Users\\YESYESYES\\.nuget\\packages\\xamarin.android.glide\\4.13.2.2\\xamarin.android.glide.4.13.2.2.nupkg.sha512",

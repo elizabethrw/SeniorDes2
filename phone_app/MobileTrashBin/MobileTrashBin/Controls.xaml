@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MobileTrashBin.Controls"
+             Title="Controls">
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="10"
+            VerticalOptions="Start">
+
+            <Grid
+                x:Name="leftMotor" 
+                Margin="0,20,0,20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text="Left Motor"
+                    HorizontalOptions="Center"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="5"/>
+                <Button
+                    Text="-100"
+                    ClassId="lowest_l"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="0"
+                    Grid.Row="1"/>
+                <Button
+                    Text="-50"
+                    ClassId="low_l"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="1"
+                    Grid.Row="1"/>
+                <Button
+                    Text="stop"
+                    Clicked="StopMovement"
+                    CornerRadius="0"
+                    TextColor="WhiteSmoke"
+                    BackgroundColor="DarkRed"
+                    Grid.Column="2"
+                    Grid.Row="1"/>
+                <Button
+                    Text="50"
+                    ClassId="high_l"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="3"
+                    Grid.Row="1"/>
+                <Button
+                    Text="100"
+                    ClassId="highest_l"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="4"
+                    Grid.Row="1"/>
+            </Grid>
+
+            <Grid
+                x:Name="rightMotor" 
+                Margin="0,20,0,20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text="Right Motor"
+                    HorizontalOptions="Center"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="5"/>
+                <Button
+                    Text="-100"
+                    ClassId="lowest_r"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="0"
+                    Grid.Row="1"/>
+                <Button
+                    Text="-50"
+                    ClassId="low_r"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="1"
+                    Grid.Row="1"/>
+                <Button
+                    Text="stop"
+                    Clicked="StopMovement"
+                    CornerRadius="0"
+                    TextColor="WhiteSmoke"
+                    BackgroundColor="DarkRed"
+                    Grid.Column="2"
+                    Grid.Row="1"/>
+                <Button
+                    Text="50"
+                    ClassId="high_r"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="3"
+                    Grid.Row="1"/>
+                <Button
+                    Text="100"
+                    ClassId="highest_r"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="4"
+                    Grid.Row="1"/>
+            </Grid>
+
+
+            <Grid
+                x:Name="move" 
+                Margin="0,20,0,20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text="Both Motors"
+                    HorizontalOptions="Center"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="5"/>
+                <Button
+                    Text="-100"
+                    ClassId="lowest_m"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="0"
+                    Grid.Row="1"/>
+                <Button
+                    Text="-50"
+                    ClassId="low_m"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="1"
+                    Grid.Row="1"/>
+                <Button
+                    Text="stop"
+                    Clicked="StopMovement"
+                    CornerRadius="0"
+                    TextColor="WhiteSmoke"
+                    BackgroundColor="DarkRed"
+                    Grid.Column="2"
+                    Grid.Row="1"/>
+                <Button
+                    Text="50"
+                    ClassId="high_m"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="3"
+                    Grid.Row="1"/>
+                <Button
+                    Text="100"
+                    ClassId="highest_m"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="4"
+                    Grid.Row="1"/>
+            </Grid>
+
+
+            <Grid
+                x:Name="tilting" 
+                Margin="0,20,0,20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Label
+                    Text="Tilt"
+                    HorizontalOptions="Center"
+                    Grid.Column="0"
+                    Grid.Row="0"
+                    Grid.ColumnSpan="5"/>
+                <Button
+                    Text="-100"
+                    ClassId="lowest_t"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="0"
+                    Grid.Row="1"/>
+                <Button
+                    Text="-50"
+                    ClassId="low_t"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="1"
+                    Grid.Row="1"/>
+                <Button
+                    Text="stop"
+                    Clicked="StopMovement"
+                    CornerRadius="0"
+                    TextColor="WhiteSmoke"
+                    BackgroundColor="DarkRed"
+                    Grid.Column="2"
+                    Grid.Row="1"/>
+                <Button
+                    Text="50"
+                    ClassId="high_t"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="3"
+                    Grid.Row="1"/>
+                <Button
+                    Text="100"
+                    ClassId="highest_t"
+                    Clicked="SpeedSet"
+                    CornerRadius="0"
+                    Grid.Column="4"
+                    Grid.Row="1"/>
+            </Grid>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
