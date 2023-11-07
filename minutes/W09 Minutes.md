@@ -7,7 +7,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | --- | --- | --- | --- | --- | --- | --- |
 | 105 | 2023-10-31 | Elizabeth | Bring Velcro strips, tape, and scissors to lab in case they can be used to attach pieces to the robot base securely for assembly. | 2023-10-31 | 2023-10-31 | Velcro strips, tape, and scissors are in lab locker. |
 | 106 | 2023-10-31 | Elizabeth | Write pathing code that moves to the mobile device based on the received GPS location and its own GPS location (final pathing code). | 2023-11-21 |  |  |
-| 107 | 2023-10-31 | Elizabeth | Document W09 Minutes on GitHub. | 2023-11-9 | 2023-11-7 | Link: |
+| 107 | 2023-10-31 | Elizabeth | Document W09 Minutes on GitHub. | 2023-11-9 | 2023-11-7 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W09%20Minutes.md |
 | 108 | 2023-10-31 | Yahia | Complete MQTT communication between devices. | 2023-11-2 | 2023-11-1 | https://github.com/elizabethrw/SeniorDes2/pull/3 |
 | 109 | 2023-10-31 | Christopher | Solder wires onto motors for extra wire length. | 2023-10-31 | 2023-10-31 | Soldered wires and tested connection. |
 | 110 | 2023-10-31 | Ji | Wrap loose wires around wires of motor for soldering prep. | 2023-10-31 | 2023-10-31 | Wrapped loose wires had ends stripped and coiled around ends of motor wires |
