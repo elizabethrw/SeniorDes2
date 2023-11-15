@@ -6,7 +6,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | ID | Date Assigned | Assignee | Description | Due Date | Completion Date or OBE | Artifact |
 | --- | --- | --- | --- | --- | --- | --- |
 | 115 | 2023-11-07 | Elizabeth | Bring lubricant for rubber wheels to decrease their friction. | 2023-11-07 | 2023-11-07 | Brought the wheel lubricant to the lab. |
-| 116 | 2023-11-07 | Elizabeth | Document W10 Meeting Minutes on GitHub. | 2023-11-16 | 2023-11-15 | Link: |
+| 116 | 2023-11-07 | Elizabeth | Document W10 Meeting Minutes on GitHub. | 2023-11-16 | 2023-11-15 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W10%20Minutes.md |
 | 117 | 2023-11-07 | Yahia | Create python script to move the robot as intended by the controls panel. | 2023-11-09 | 2023-11-09 | Code is uploaded to Discord. |
 | 118 | 2023-11-07 | Jacob | Write C# AES encryption code. | 2023-11-14 | 2023-11-14 | Code is written. |
 | 119 | 2023-11-07 | Christopher | Put paper on wheels to see if that decreases friction enough to turn. | 2023-11-07 | 2023-11-07 | Paper did not decrease friction enough to allow robot to turn. |
