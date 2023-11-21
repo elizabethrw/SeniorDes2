@@ -1,34 +1,125 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="MobileTrashBin.MainPage">
+             x:Class="MobileTrashBin.MainPage"
+             Title="Mobile Trash Bin (V0.5)">
+             
 
     <ScrollView>
         <VerticalStackLayout
-            Spacing="25"
-            Padding="30,0"
+            Spacing="10"
+            Padding="10"
             VerticalOptions="Center">
-
-            <Label
-                Text="Mobile Trash Bin Project"
-                SemanticProperties.HeadingLevel="Level1"
-                FontSize="32"
-                HorizontalOptions="Center" />
-
-            <Label
-                Text="V0.01"
-                SemanticProperties.HeadingLevel="Level2"
-                FontSize="18"
-                HorizontalOptions="Center" />
 
             <Button
                 x:Name="CallBot"
-                Text="Call Bin"
+                Text="Summon"
                 WidthRequest="150"
                 HeightRequest="150"
-                Clicked="OnCounterClicked"
+                Clicked="SummonRequest"
                 CornerRadius="60"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                Margin="0,50,0,20"/>
+
+            <Button
+                x:Name="_vw_ctrl"
+                Text="Controls"
+                WidthRequest="100"
+                HeightRequest="50" 
+                Clicked="viewControls" />
+
+            <Label
+                x:Name="_status"
+                Text="Unknown Status"
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="18"
+                TextColor="ForestGreen"
                 HorizontalOptions="Center" />
+            
+            <Label
+                x:Name="_error"
+                Text=""
+                SemanticProperties.HeadingLevel="Level2"
+                FontSize="14"
+                TextColor="Red"
+                HorizontalOptions="Center" />
+
+            <Grid 
+                MinimumWidthRequest="250"
+                MinimumHeightRequest="50"
+                HorizontalOptions="Center">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Entry
+                    x:Name="_addr"
+                    Text=""
+                    TextChanged="_addr_TextChanged"
+                    Grid.Column="0"
+                    HeightRequest="50"
+                    WidthRequest="125"/>
+                <Button
+                    x:Name="_recon"
+                    Text="Reconnect"
+                    Clicked="Reconnect"
+                    Grid.Column="1"
+                    WidthRequest="100"
+                    HeightRequest="50"/>
+            </Grid>
+            
+            <ScrollView
+                Orientation="Vertical"
+                VerticalScrollBarVisibility="Always"
+                MinimumHeightRequest="150"
+                MaximumHeightRequest="150"
+                MinimumWidthRequest="300"
+                MaximumWidthRequest="300"
+                HorizontalOptions="Center">
+                <Editor
+                    x:Name="_rcv_box"
+                    Text="Communication History:"
+                    VerticalTextAlignment="Start"
+                    VerticalOptions="FillAndExpand"
+                    AutoSize="TextChanges"/>
+            </ScrollView>
+            
+            <ScrollView
+                Orientation="Vertical"
+                VerticalScrollBarVisibility="Always"
+                MinimumHeightRequest="150"
+                MaximumHeightRequest="150"
+                MinimumWidthRequest="300"
+                MaximumWidthRequest="300"
+                HorizontalOptions="Center">
+                <Editor
+                    x:Name="_tx_box"
+                    Text="Location History:"
+                    VerticalTextAlignment="Start"
+                    VerticalOptions="FillAndExpand"
+                    AutoSize="TextChanges"/>
+            </ScrollView>
+
+            <Button
+                Text="Copy Most Recent Location"
+                WidthRequest="300"
+                HeightRequest="50"
+                Clicked="CopyToClip"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+            <Button
+                Text="Shutdown"
+                WidthRequest="100"
+                HeightRequest="50"
+                Clicked="_turn_off"
+                BackgroundColor="DarkRed"
+                TextColor="GhostWhite"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+
+
 
         </VerticalStackLayout>
     </ScrollView>

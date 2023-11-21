@@ -155,3 +155,10 @@ maui.aar
 Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
+Plugin.BLE.dll
+InTheHand.AndroidActivity.dll
+InTheHand.Net.Bluetooth.dll
+Syncfusion.Maui.Core.dll
+Syncfusion.Maui.Sliders.dll
+Syncfusion.Maui.Core.aar
+Syncfusion.Maui.Sliders.aar
