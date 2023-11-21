@@ -6,7 +6,7 @@ Actions Decided (Artifacts are added as tasks are completed):
 | ID | Date Assigned | Assignee | Description | Due Date | Completion Date or OBE | Artifact |
 | --- | --- | --- | --- | --- | --- | --- |
 | 123 | 2023-11-14 | Elizabeth | Get USB-C to USB-C cable | 2023-11-14 | 2023-11-14 | Got USB-C to USB-C cord 11/13, brought to lab. |
-| 124 | 2023-11-14 | Elizabeth | Document W11 minutes on GitHub. | 2023-11-23 | 2023-11-21 | Link: |
+| 124 | 2023-11-14 | Elizabeth | Document W11 minutes on GitHub. | 2023-11-23 | 2023-11-21 | Link: https://github.com/elizabethrw/SeniorDes2/blob/main/minutes/W11%20Minutes.md |
 | 125 | 2023-11-14 | Christopher | Test how long the battery takes to charge | 2023-11-14 | 2023-11-14 | Started at 3.28 V, ended at 3.86 V, took 50 min. |
 | 126 | 2023-11-14 | Yahia | Draft up presentation section regarding phone app and communication | 2023-11-23 |  |  |
 | 127 | 2023-11-14 | Elizabeth | Create design approach slides for robot software. | 2023-11-21 | 2023-11-17 | Wrote design approach slides for robot software (may adjust Tuesday 11/28 post testing my script). |
